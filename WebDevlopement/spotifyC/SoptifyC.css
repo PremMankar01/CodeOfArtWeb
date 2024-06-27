@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=C:opsz,wght@6..12,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200&family=Varela+Round&display=swap');
+body{
+    background-color: antiquewhite;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 89px;
+    background-color: black;
+}
+
+.brand img{
+    width: 90px;
+
+}
